@@ -1,9 +1,9 @@
 require 'rubygems'
 
 SPEC = Gem::Specification.new do |s|
-  s.name = "mumboe-soap4r"
+  s.name = "soap4r"
   s.version = "1.5.8.1"
-  s.date = "2009-12-08"
+  s.date = "2010-10-11"
   s.author = "Scott Diedrick (modifier: activenetwork)"
   s.email = "swalterd@gmail.com"
   s.homepage = "http://dev.ctor.org/soap4r"
