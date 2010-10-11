@@ -1,6 +1,6 @@
 require 'rubygems'
 
-SPEC = Gem::Specification.new do |s|
+Gem::Specification.new do |s|
   s.name = "soap4r"
   s.version = "1.5.8.1"
   s.date = "2010-10-11"
